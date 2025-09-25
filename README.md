@@ -2,4 +2,5 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning C#,python,httml,css,java script,php and ofice programs.
 - ⚡ Fun fact ; Idk what to do in future.
+
 -✨ If there's a senior who can to show my mistakes,this juinor will be gratefull.
