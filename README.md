@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Furkan Zorlu
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning C# and ofice program.
-- ⚡ Fun fact: I am curently in courses and ı make my best for my future :D
+- 🌱 I’m currently learning C#,python,httml,css,java script,php and ofice programs.
+- ⚡ Fun fact ; Idk what to do in future.
 
 <!---
 FurkanZorlu37/FurkanZorlu37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
